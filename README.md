@@ -1,2 +1,2 @@
 # Training
-devops for the life
+git training
